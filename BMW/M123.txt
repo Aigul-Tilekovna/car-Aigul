@@ -1,0 +1,4 @@
+Car ID: M123
+Car Model: K12
+Year of Manufacture: 2023
+Price: 22000
